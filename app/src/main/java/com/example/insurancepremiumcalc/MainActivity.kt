@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         }
         display()
 
-
+//
 
         reset.setOnClickListener() {
             spinner.setSelection(0)
